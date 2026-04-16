@@ -18,4 +18,4 @@ RTX represents a shift in how script recovery is approached, Let's see any other
 
 **Think again before competing with RTX**
 
-![Logo](logo.png)
+![Preview](Preview.png)
