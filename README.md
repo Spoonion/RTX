@@ -17,3 +17,5 @@ Its processing engine is decently fast and depth simultaneously, allowing it to 
 RTX represents a shift in how script recovery is approached, Let's see any other decompiler do that in a million years!
 
 **Think again before competing with RTX**
+
+![Logo](logo.png)
