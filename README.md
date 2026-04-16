@@ -12,6 +12,10 @@ RTX will even attempt to retrieve the variables of a script via what is loaded u
 
 RTX analyzes runtime behavior, mapping execution flow as it happens and reconstructing hidden dependencies that typical compilers ignore. This allows it to rebuild scripts in a structured format that reflects their original chain with higher readability.
 
+```
+Release Soon
+```
+
 ![Preview](Preview.png)
 
 RTX filters out redundant or corrupted instruction paths while preserving core funcs. The result is a reconstruction that is closer to the original intent of the script rather than a fragmented dump of raw data which Decompilers like Konstant could NEVER do!
